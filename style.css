@@ -1,0 +1,41 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: lightgrey;
+}
+.container{
+	margin: 0 auto;
+	width: 90%;
+}
+.logo, .header,.body{
+	height: 100px;
+	background-color: yellow;
+}
+h1{
+	font-size: 20px;
+	margin: 0;
+	text-align: center;
+	padding-top: 34px;
+}
+.main{
+	overflow: hidden;
+	margin: 15px 0;
+}
+.sidebar{
+	width: 20%;
+	height: 700px;
+	float: left;
+}
+.content{
+	width: 78%;
+	height: 700px;
+	float: right;
+}
+.header{
+	height: 200px;
+	margin-bottom: 15px;
+}
+.body{
+	height: 500px;
+
+}
